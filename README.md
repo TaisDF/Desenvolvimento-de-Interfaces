@@ -8,7 +8,6 @@
 
 A estrutura do HTML é essencial para a **usabilidade** de um site. Um código bem organizado e semântico garante que os usuários possam navegar com mais facilidade, além de melhorar a acessibilidade e a indexação por mecanismos de busca.
 
-Na aula do dia **11/04**, discutimos os seguintes conceitos de **IHC (Interação Humano-Computador)** aplicados ao HTML:
 
 ### 🧾 Diretrizes de IHC aplicadas ao HTML
 
@@ -25,7 +24,8 @@ Também realizamos uma pesquisa de sites com falhas de usabilidade e observamos 
 ## 🕵️‍♀️ 2. Escolha do Site 'Problemático'
 
 ### 🔗 Site analisado:
-[Inserir link do site com problemas]
+[Arngren.net - Technology & Gadgets](https://arngren.net/)
+
 
 ### ⚠️ Problemas encontrados:
 
